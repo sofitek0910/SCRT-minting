@@ -16,11 +16,9 @@ function App() {
 				<div></div>
 			</div>
 			<div>
-
 				<a href="https://twitter.com/PhantomPandaNFT" className="twitter">
 					<img src="./assets/img/twitter.webp" alt="twitter"/>
 				</a>
-
 			</div>
 		</nav>
 		<article>
