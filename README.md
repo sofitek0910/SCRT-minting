@@ -1,4 +1,4 @@
-# Welcome to Coolbeez
+# Welcome to Secret network minting
 
 Make sure you have node.js installed so you can use npm, then run:
 
