@@ -2,14 +2,10 @@ import React, { useEffect, useState, useRef } from "react";
 import swal  from 'sweetalert';
 
 function App() {
-  const comingSoon = () => {
-	swal("CoolBeez NFT coming soon", "", "info");
-  }
-
+  
   return (
     <div>
-		<img className="main-back" src="./assets/img/bg.png"/>
-			{/* <img className="top-mobile-back" src="./img/mobile_back1.jpg"/>  */}
+		<img className="main-back" src="./assets/img/bg.webp"/>
 		<nav>
 			<div className="d-flex">
 				<div className="burger">
