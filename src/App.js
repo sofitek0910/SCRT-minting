@@ -245,7 +245,6 @@ function App() {
 						<p>Just don’t miss the ride.</p>
 						<a  className="bottom-link-block"
 							href="https://kingsumo.com/g/vhn8m6/join-the-waitlist-for-a-chance-to-win-a-rare-phantom-panda-nft">
-
 							<button>Get on the list</button>
 						</a>
 					</div>
