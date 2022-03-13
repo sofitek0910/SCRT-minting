@@ -158,7 +158,8 @@ function App() {
 					</div>
 					<div>
 						<h4>Where can I buy SCRT?</h4>
-						<p><span className="grey">Directly: </span><a
+						<p><span className="grey">Directly: </span>
+							<a
 								href="https://app.secretswap.net/buy">https://app.secretswap.net/buy</a></p>
 						<p><span className="grey">Exchanges: </span>Binance / Huobi / Check on CMC</p>
 					</div>
