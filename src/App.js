@@ -159,14 +159,14 @@ function App() {
 					<div>
 						<h4>Where can I buy SCRT?</h4>
 						<p><span className="grey">Directly: </span>
-							<a
-								href="https://app.secretswap.net/buy">https://app.secretswap.net/buy</a></p>
+							<a href="https://app.secretswap.net/buy">https://app.secretswap.net/buy</a></p>
 						<p><span className="grey">Exchanges: </span>Binance / Huobi / Check on CMC</p>
 					</div>
 					<div>
 						<h4> How do I convert my SCRT to sSCRT?</h4>
-						<p><span className="grey">Here: </span> <a
-								href="https://wrap.scrt.network/">https://wrap.scrt.network/</a></p>
+						<p><span className="grey">Here: </span> 
+							<a href="https://wrap.scrt.network/">https://wrap.scrt.network/</a>
+						</p>
 					</div>
 					<div>
 						<h4>When mint?</h4>
