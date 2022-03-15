@@ -29,7 +29,6 @@ function App() {
 			<a className="nav-l" data-href="faq">Faq</a>
 			<a className="nav-l" data-href="contemplation">Contemplation</a>
 			<a href="https://kingsumo.com/g/vhn8m6/join-the-waitlist-for-a-chance-to-win-a-rare-phantom-panda-nft">
-
 				<button>Get on the list</button>
 			</a>
 		</article>
