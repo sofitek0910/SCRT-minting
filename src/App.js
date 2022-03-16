@@ -2,7 +2,6 @@ import React, { useEffect, useState, useRef } from "react";
 import swal  from 'sweetalert';
 
 function App() {
-  
   return (
     <div>
 		<img className="main-back" src="./assets/img/bg.webp"/>
